@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{clip-path:url(#XMLID_00000080181376928961826470000001988043347006597771_);}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#5E64AD;}
+	.st5{fill:#DDE051;}
+	.st6{fill:#845CA6;}
+	.st7{fill:#6EC283;}
+	.st8{fill:#EA5FA3;}
+	.st9{fill:#010101;}
+</style>
+<g id="Ruler" class="st0">
+	<g id="XMLID_18_" class="st1">
+		<defs>
+			<rect id="XMLID_2_" width="32" height="32"/>
+		</defs>
+		<clipPath id="XMLID_00000086657795442633350680000014483055126497742745_">
+			<use xlink:href="#XMLID_2_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="XMLID_19_" style="clip-path:url(#XMLID_00000086657795442633350680000014483055126497742745_);">
+			<g id="XMLID_40_">
+				<rect id="XMLID_1_" class="st3" width="32" height="32"/>
+			</g>
+			<g id="XMLID_38_">
+				
+					<rect id="XMLID_16_" x="15.98" y="-6.67" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -6.5897 16.0156)" class="st4" width="0.11" height="45.25"/>
+			</g>
+			<g id="XMLID_36_">
+				
+					<rect id="XMLID_15_" x="-6.67" y="15.91" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -6.6118 15.9623)" class="st4" width="45.25" height="0.11"/>
+			</g>
+			<g id="XMLID_32_">
+				<path id="XMLID_12_" class="st5" d="M16,30.05c-7.75,0-14.05-6.3-14.05-14.05C1.95,8.25,8.25,1.95,16,1.95
+					c7.75,0,14.05,6.3,14.05,14.05C30.05,23.75,23.75,30.05,16,30.05z M16,2.05C8.31,2.05,2.05,8.31,2.05,16S8.31,29.95,16,29.95
+					S29.95,23.69,29.95,16S23.69,2.05,16,2.05z"/>
+			</g>
+			<g id="XMLID_28_">
+				<path id="XMLID_9_" class="st6" d="M29.05,29.05H2.95V2.95h26.11V29.05z M3.05,28.95h25.89V3.05H3.05V28.95z"/>
+			</g>
+			<g id="XMLID_24_">
+				<path id="XMLID_6_" class="st7" d="M30.05,28.05H1.95V3.95h28.11V28.05z M2.05,27.95h27.89V4.05H2.05V27.95z"/>
+			</g>
+			<g id="XMLID_20_">
+				<path id="XMLID_3_" class="st8" d="M28.05,30.05H3.95V1.95h24.11V30.05z M4.05,29.95h23.89V2.05H4.05V29.95z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Icon">
+	<path class="st9" d="M14.33,20.18H8.44c-0.31,0-0.51-0.32-0.37-0.6l8.68-17.35c0.2-0.39,0.79-0.25,0.79,0.19v8.98
+		c0,0.23,0.19,0.42,0.42,0.42h5.89c0.31,0,0.51,0.32,0.37,0.6l-8.68,17.35c-0.2,0.39-0.79,0.25-0.79-0.19V20.6
+		C14.74,20.37,14.56,20.18,14.33,20.18z"/>
+</g>
+</svg>

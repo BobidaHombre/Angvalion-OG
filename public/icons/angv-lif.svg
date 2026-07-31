@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Warstwa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#020203;}
+</style>
+<g id="magia_życia">
+	<g>
+		<path class="st0" d="M250,500c-73,0-133-59-133-133s60-132,133-132s133,59,133,133S323,500,250,500z M250,261
+			c-58,0-106,48-106,106s48,106,106,106s106-48,106-106S308,261,250,261z"/>
+	</g>
+	<g>
+		<path class="st0" d="M250,248c-7,0-13-6-13-13V13c0-7,6-13,13-13c7,0,13,6,13,13v222C263,242,257,248,250,248z"/>
+	</g>
+	<g>
+		<path class="st0" d="M157,222c-4,0-7-2-10-5c-5-6-4-14,1-19L334,39c6-5,14-4,19,1c5,6,4,14-1,19L166,218C163,220,160,222,157,222z
+			"/>
+	</g>
+</g>
+</svg>

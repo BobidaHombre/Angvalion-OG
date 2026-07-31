@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-8 10 32 32" style="enable-background:new -8 10 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{clip-path:url(#SVGID_2_);}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#5E64AD;}
+	.st5{fill:#DDE051;}
+	.st6{fill:#845CA6;}
+	.st7{fill:#6EC283;}
+	.st8{fill:#EA5FA3;}
+</style>
+<g id="Ruler" class="st0">
+	<g id="XMLID_1_" class="st1">
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="-8" y="10" width="32" height="32"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g id="XMLID_2_" class="st2">
+				<g id="XMLID_40_">
+					<rect id="XMLID_5_" x="-8" y="10" class="st3" width="32" height="32"/>
+				</g>
+				<g id="XMLID_38_">
+					
+						<rect id="XMLID_16_" x="-14.6" y="25.9" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -4.607 50.0159)" class="st4" width="45.3" height="0.1"/>
+				</g>
+				<g id="XMLID_36_">
+					
+						<rect id="XMLID_15_" x="7.9" y="3.3" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -4.7532 49.9206)" class="st4" width="0.1" height="45.3"/>
+				</g>
+				<g id="XMLID_32_">
+					<path id="XMLID_12_" class="st5" d="M8,40.1C0.3,40.1-6.1,33.7-6.1,26S0.3,11.9,8,11.9S22.1,18.2,22.1,26
+						C22.1,33.7,15.7,40.1,8,40.1z M8,12.1C0.3,12.1-5.9,18.3-5.9,26S0.3,39.9,8,39.9S21.9,33.7,21.9,26S15.7,12.1,8,12.1z"/>
+				</g>
+				<g id="XMLID_28_">
+					<path id="XMLID_9_" class="st6" d="M21.1,39.1H-5.1V12.9H21v26.2H21.1z M-4.9,38.9H21V13.1H-4.9V38.9z"/>
+				</g>
+				<g id="XMLID_24_">
+					<path id="XMLID_6_" class="st7" d="M22.1,38.1H-6.1V13.9H22v24.2H22.1z M-5.9,37.9H22V14.1H-5.9V37.9z"/>
+				</g>
+				<g id="XMLID_20_">
+					<path id="XMLID_17_" class="st8" d="M20.1,40.1H-4.1V11.9H20v28.2H20.1z M-3.9,39.9H20V12.1H-3.9V39.9z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<path d="M12.4,37.1c-0.2,0-0.4-0.1-0.6-0.2L-2.9,22.2c-0.3-0.3-0.3-0.9,0-1.2l7.4-7.4c0.3-0.3,0.9-0.3,1.2,0l14.7,14.7
+		c0.3,0.3,0.3,0.9,0,1.2L13,36.9C12.9,37,12.6,37.1,12.4,37.1z M-1.1,21.6l13.5,13.5l6.3-6.3L5.2,15.3L-1.1,21.6z"/>
+</g>
+<g>
+	<path d="M-1.5,38.7c-0.2,0-0.4-0.1-0.6-0.2l-2.4-2.4c-0.3-0.3-0.3-0.9,0-1.2l7-7c0.3-0.3,0.9-0.3,1.2,0l2.4,2.4
+		c0.2,0.2,0.2,0.4,0.2,0.6c0,0.2-0.1,0.4-0.2,0.6l-7,7C-1.1,38.6-1.3,38.7-1.5,38.7z M-2.7,35.5l1.2,1.2l5.9-5.9l-1.2-1.2L-2.7,35.5
+		z"/>
+</g>
+</svg>
